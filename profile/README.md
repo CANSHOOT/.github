@@ -8,7 +8,7 @@
 
 ---
 
-## 📱 [쏠쏠해영 Android 앱](./solsol-android)
+## 📱 [쏠쏠해영 Android 앱](https://github.com/CANSHOOT/solsol-android)
 
 <img width="250" height="600" alt="image" src="https://github.com/user-attachments/assets/d222d07e-f96c-4433-b156-d873d337e3d5" />
 
